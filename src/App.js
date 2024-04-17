@@ -187,7 +187,7 @@ function App() {
               }}
             >
               <Typography variant="h5" component="span" color={"ThreeDShadow"}>
-                Open Weather
+  City Weather Pro
               </Typography>
             </Box>
 
